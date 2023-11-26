@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1672696535 source:c:\users\teodora\onedrive\desktop\tema de vacanta\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<sstream>
+	<string.h>
+	<cstring>
+
+1672997983 source:c:\users\teodora\onedrive\desktop\poo vacanta\tema de vacanta\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<sstream>
+	<string.h>
+	<cstring>
+
+1672998459 source:c:\users\teodora\onedrive\desktop\anul 2\semestrul 1\poo\poo vacanta\tema de vacanta\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<sstream>
+	<string.h>
+	<cstring>
+
